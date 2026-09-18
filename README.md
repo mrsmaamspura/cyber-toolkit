@@ -42,7 +42,6 @@ Cyber-Toolkit/
 ├── LICENSE
 └── README.md
 ```
-
 🎯 What I Learned
 
 Through this project, I practiced:
