@@ -1,16 +1,6 @@
 🔐 Cyber Toolkit
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"License" (https://img.shields.io/badge/License-MIT-green)
-"Status" (https://img.shields.io/badge/Status-Active%20Learning-brightgreen)
-
 A beginner-friendly Python cybersecurity project that simulates a simple login and registration system using file-based storage.
-
-📌 Project Status
-
-🟢 Active Learning Project
-
-This project is currently being developed and improved as I learn more about Python, cybersecurity, authentication, and secure software development.
 
 🧠 About the Project
 
@@ -21,6 +11,12 @@ The toolkit provides a simple terminal-based system where users can:
 - 🧾 Register an account
 - 🔐 Log in with existing credentials
 - 📁 Store user information locally using JSON
+
+📌 Project Status
+
+🟢 Active Learning Project
+
+This project is currently being developed and improved as I learn more about Python, cybersecurity, authentication, and secure software development.
 
 ⚙️ Features
 
@@ -60,14 +56,6 @@ I plan to improve the project by adding:
 
 This is an educational project created for learning purposes. It is not intended to be used as a production authentication system.
 
----
-
-Built while learning Python, cybersecurity, and secure software development. 🔐🐍
-This is an educational project created for learning purposes. It is not intended to be used as a production authentication system.
-
----
-
-Built while learning Python, cybersecurity, and secure software development. 🔐🐍
 ---
 
 Built while learning Python, cybersecurity, and secure software development. 🔐🐍
