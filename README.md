@@ -5,6 +5,11 @@ A beginner-friendly Python cybersecurity project that simulates a simple login a
 🧠 About the Project
 
 I built this project to practice Python programming and fundamental cybersecurity concepts such as authentication, user input handling, and data storage.
+## 📌 Project Status
+
+🟢 **Active Learning Project**
+
+This project is currently being developed and improved as I learn more about Python, cybersecurity, authentication, and secure software development.
 
 The toolkit provides a simple terminal-based system where users can:
 
