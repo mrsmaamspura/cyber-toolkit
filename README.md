@@ -36,11 +36,12 @@ The toolkit provides a simple terminal-based system where users can:
 
 ## 📂 Project Structure
 
-text
+```text
 Cyber-Toolkit/
 ├── .gitignore
 ├── LICENSE
-└── README.md
+└── README.md```
+
 🎯 What I Learned
 
 Through this project, I practiced:
