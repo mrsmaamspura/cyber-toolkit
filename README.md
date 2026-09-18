@@ -38,7 +38,7 @@ The toolkit provides a simple terminal-based system where users can:
 
 📂 Project Structure
 
-Cyber-Toolkit/
+Cyber-Toolkit
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -65,6 +65,11 @@ I plan to improve the project by adding:
 
 ⚠️ Disclaimer
 
+This is an educational project created for learning purposes. It is not intended to be used as a production authentication system.
+
+---
+
+Built while learning Python, cybersecurity, and secure software development. 🔐🐍
 This is an educational project created for learning purposes. It is not intended to be used as a production authentication system.
 
 ---
