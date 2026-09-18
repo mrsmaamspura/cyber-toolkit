@@ -36,7 +36,7 @@ The toolkit provides a simple terminal-based system where users can:
 
 ## 📂 Project Structure
 
-```text
+text
 Cyber-Toolkit/
 ├── .gitignore
 ├── LICENSE
