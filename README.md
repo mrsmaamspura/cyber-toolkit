@@ -1,4 +1,7 @@
 🔐 Cyber Toolkit
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen)
 
 A beginner-friendly Python cybersecurity project that simulates a simple login and registration system using file-based storage.
 
