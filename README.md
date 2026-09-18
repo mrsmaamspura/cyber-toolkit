@@ -34,6 +34,13 @@ The toolkit provides a simple terminal-based system where users can:
 - 📄 JSON
 - 💻 Terminal / Command Line
 
+## 📂 Project Structure
+
+```text
+Cyber-Toolkit/
+├── .gitignore
+├── LICENSE
+└── README.md
 🎯 What I Learned
 
 Through this project, I practiced:
