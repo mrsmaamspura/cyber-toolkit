@@ -32,6 +32,28 @@ This project is currently being developed and improved as I learn more about Pyt
 - 📄 JSON
 - 💻 Terminal / Command Line
 
+🎯 What I Learned
+
+Through this project, I practiced:
+
+- Building authentication logic
+- Working with JSON files
+- Handling user input
+- Structuring a Python project
+- Thinking about basic security considerations
+
+🚀 Future Improvements
+
+I plan to improve the project by adding:
+
+- 🔒 Password hashing
+- 🛡️ Stronger input validation
+- 🚫 Login attempt limits
+- 🔑 Secure password handling
+- 📝 Secure notes functionality
+
+⚠️ Disclaimer
+
 This is an educational project created for learning purposes. It is not intended to be used as a production authentication system.
 
 ---
